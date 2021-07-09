@@ -1,0 +1,114 @@
+.nav-blog{
+  font-family: 'Merriweather', serif;
+  margin-bottom: 0;
+}
+.navbar-brand{
+  color:black;
+  font-weight: 900;
+  font-size: 2.5rem !important;
+}
+#navbarNav{
+  margin-right: 50px;
+}
+.nav-item{
+  color: black;
+  font-weight: 400;
+  font-size: 1.3rem !important;
+  padding: 20px;
+}
+.nav-link{
+  color: black;
+    font-weight: 400;
+}
+.nav-link:hover{
+  color: red;
+  background: black;
+  border:2px solid green;
+}
+.navbar-brand:hover{
+font-size: 4rem !important;
+color: red;
+transition: all 0.4s;
+
+}
+.imma{
+font-family: 'Merriweather', serif;
+font-size: 2.4rem !important;
+color:#F66969;
+
+font-weight: 900;
+}
+.ty{
+font-family: 'Merriweather', serif;
+background: url("images/bg.jpg");
+background-size: cover;
+height: 75vh;
+width: 100%;
+text-align: center;
+background-repeat: no-repeat;
+
+
+}
+.wr{
+  padding-top: 100px;
+
+}
+.hero-img img{
+  margin-top: 20px;
+  border-radius: 10px;
+  border: 3px solid white;
+}
+.skills{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+.skills h1{
+  font-family: 'Merriweather', serif;
+padding-left: 40px;
+text-align: center;
+font-weight: bolder;
+margin-bottom: 20px;
+}
+.social h1{
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-weight: bolder;
+  margin-bottom: 20px;
+}
+.social div.row{
+  text-align: center;
+
+}
+.col-lg-3 h2{
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+}
+.col-lg-3 a{
+  font-size: 2rem;
+  margin-top: 10px;
+  color: black !important;
+
+}
+.end h6{
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 0.8rem;
+  letter-spacing: 2;
+}
+.hei{
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+}
+
+/* @media only screen and (max-width: 600px) {
+  .row{text-align: center;}
+  .col-lg-4{
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    padding-left: 100px !important;
+  }
+} */
